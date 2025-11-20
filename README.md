@@ -1,1 +1,77 @@
-# saikumar-kakumanu
+# saikumar kakumanu
+
+👋 Hi! I'm **Saikumar Kakumanu**, a Frontend & Mobile Developer passionate about creating clean, user-friendly interfaces and performant applications.
+
+## 🚀 Skills
+
+### **Frontend Development**
+- HTML, CSS, Bootstrap  
+- JavaScript, TypeScript  
+- React.js, Next.js  
+- Redux Toolkit, Zustand  
+- Tailwind CSS, Material UI  
+
+### **Mobile Development**
+- SwiftUI (iOS)  
+- UIKit  
+- WalletConnect Integration  
+- Combine  
+- MVVM Architecture  
+
+### **Other Skills**
+- Angular  
+- Git & GitHub  
+- API Integration  
+- Node.js (basic)  
+- Cloud Deployment (Netlify, Render)  
+
+---
+
+## 💼 Experience
+
+### **iOS Developer**
+- Built multiple SwiftUI projects with MVVM architecture  
+- Integrated **WalletConnect**, **MetaMask**, and **Apple Music APIs**  
+- Worked on authentication (Cognito, Amplify)  
+- Experience with pagination, infinite scroll & custom player manager  
+
+### **Frontend Developer**
+- Websites built using React + Vite  
+- API-driven dashboards  
+- Portfolio websites  
+- Responsive UI design  
+
+---
+
+## 📫 Contact
+
+- **Email:** saikumar.kakumanu@gmail.com  
+- **GitHub:** https://github.com/YOUR_USERNAME  
+- **LinkedIn:** https://linkedin.com/in/YOUR_LINK  
+
+---
+
+## 📁 Projects
+
+### 🔹 Portfolio Website  
+A modern portfolio built using **React + Vite + AOS** animations.
+
+### 🔹 Crypto Payment App (SwiftUI)  
+iOS app with **WalletConnect**, **MetaMask**, and multi-chain support.
+
+### 🔹 Music App  
+Unified streaming using **Apple Music** + custom audio player.
+
+---
+
+## ⭐ About Me
+
+- 🔍 Always curious to learn new technologies  
+- 💡 Enjoy building UI components and reusable modules  
+- 📱 Love working with SwiftUI animations  
+- 🔧 Strong problem-solving mindset  
+
+---
+
+## 📘 License
+This project is licensed under the MIT License.
