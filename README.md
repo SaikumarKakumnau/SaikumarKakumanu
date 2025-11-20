@@ -2,10 +2,11 @@
 
 👋 Hi! I'm **Saikumar Kakumanu**, a Frontend & Mobile Developer passionate about creating clean, user-friendly interfaces and performant applications.
 
-## 🚀 Skills
 - portfolio: https://saikumar-kakumanu-portfolio.netlify.app
 - gitLab: https://gitlab.com/saikumarkakumanu
 - linkedIn: https://www.linkedin.com/in/saikumar-kakumanu-53b210230
+
+## 🚀 Skills
 
 ### **Frontend Development**
 - HTML, CSS, Bootstrap  
