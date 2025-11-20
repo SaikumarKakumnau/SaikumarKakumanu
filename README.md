@@ -12,7 +12,7 @@
 - HTML, CSS, Bootstrap  
 - JavaScript, TypeScript  
 - React.js, Next.js  
-- Redux Toolkit, Zustand  
+- Redux Toolkit
 - Tailwind CSS, Material UI  
 
 ### **Mobile Development**
@@ -23,11 +23,12 @@
 - MVVM Architecture  
 
 ### **Other Skills**
-- Angular  
-- Git & GitHub  
-- API Integration  
-- Node.js (basic)  
-- Cloud Deployment (Netlify, Render)  
+- Angular
+- Git & GitHub
+- API Integration
+- SQL
+- Node.js (intermediate)
+- Aws  
 
 ---
 
@@ -42,16 +43,15 @@
 ### **Frontend Developer**
 - Websites built using React + Vite  
 - API-driven dashboards  
-- Portfolio websites  
 - Responsive UI design  
 
 ---
 
 ## 📫 Contact
 
-- **Email:** saikumar.kakumanu@gmail.com  
-- **GitHub:** https://github.com/YOUR_USERNAME  
-- **LinkedIn:** https://linkedin.com/in/YOUR_LINK  
+- **Email:** saikumarkakumanu2415@gmail.com  
+- **GitHub:** https://github.com/SaikumarKakumanu2415  
+- **LinkedIn:** https://www.linkedin.com/in/saikumar-kakumanu-53b210230
 
 ---
 
@@ -75,7 +75,3 @@ Unified streaming using **Apple Music** + custom audio player.
 - 📱 Love working with SwiftUI animations  
 - 🔧 Strong problem-solving mindset  
 
----
-
-## 📘 License
-This project is licensed under the MIT License.
