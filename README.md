@@ -1,4 +1,4 @@
-# saikumar kakumanu
+# Saikumar Kakumanu
 
 👋 Hi! I'm **Saikumar Kakumanu**, a Frontend & Mobile Developer passionate about creating clean, user-friendly interfaces and performant applications.
 
